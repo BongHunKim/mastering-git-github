@@ -15,7 +15,7 @@ jobs:
     strategy:
       matrix:
         node-version: [10.x]
-        # See 3supported Node.js release schedule at https://nodejs.org/en/about/releases/
+        # See 3supported Nodge.js release schedule at https://nodejs.org/en/about/releases/
 
     steps:
     - uses: actions/checkout@v2
